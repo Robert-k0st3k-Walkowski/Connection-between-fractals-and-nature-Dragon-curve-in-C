@@ -60,11 +60,11 @@ Program, który napisałem, generujący nam wspomnianą "krzywą smoka" polega n
 
 <ins>DLA WYBRANIA OPCJI GENEROWANIA GRAFICZNEGO EFEKTU DZIAŁANIA PROGRAMU:<ins>
 
-![screenshot_2](https://github.com/IS-UMK/2024-js-project-Robert-k0st3k-Walkowski/assets/147077004/befd03cc-eebd-4f5a-a86e-43eafb625488) ![screenshot_3](https://github.com/IS-UMK/2024-js-project-Robert-k0st3k-Walkowski/assets/147077004/5fe6a1ff-1e47-4c35-99d0-bf0b648253d3) ![screenshot_5](https://github.com/IS-UMK/2024-js-project-Robert-k0st3k-Walkowski/assets/147077004/d2ef27ba-a714-4c45-bd46-ec8975645516)
+![screenshot_2](./screenshot_2.png) ![screenshot_3](./screenshot_3.png) ![screenshot_5](./screenshot_5.png)
 
 <ins>DLA NIE WYBRANIA OPCJI GENEROWANIA GRAFICZNEGO EFEKTU DZIAŁANIA PROGRAMU:<ins>
 
-![screenshot_6](https://github.com/IS-UMK/2024-js-project-Robert-k0st3k-Walkowski/assets/147077004/362aaf78-434c-43a1-a5a3-0e1867bdfcbb) ![screenshot_4](https://github.com/IS-UMK/2024-js-project-Robert-k0st3k-Walkowski/assets/147077004/aee58181-6180-46fc-a1e4-02e625760de8)
+![screenshot_6](./screenshot_6.png) ![screenshot_4](./screenshot_4.png)
 
 ## Dodatkowe biblioteki
 
