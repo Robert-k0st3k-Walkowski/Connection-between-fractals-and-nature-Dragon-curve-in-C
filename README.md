@@ -33,7 +33,7 @@ Dla potwierdzenia problemu badawczego można przedstawić kilka przykładów w p
 2. **Formacje skalne**
 - Pewne formacje skalne, szczególnie te, które powstają w wyniku erozji lub działania sił tektonicznych, mogą tworzyć złożone, samo-podobne wzory przypominające krzywą smoka. Przykładem mogą być niektóre skalne wybrzeża lub kaniony.
 
-![formy_skalne](./images/fomry_skalne.jpg) ![fomry_skalne_2](./images/fomry_skalne_2.jpeg)
+![formy_skalne](./images/formy_skalne.jpg) ![fomry_skalne_2](./images/fomry_skalne_2.jpeg)
 
 3. **Układy chmur**
 - Formacje chmur, zwłaszcza te, które powstają w wyniku turbulencji, mogą tworzyć fraktalne wzory. Często widać to w chmurach burzowych lub w układach chmur cirrus, gdzie kształty przypominają złożone krzywe fraktalne.
@@ -48,7 +48,7 @@ Dla potwierdzenia problemu badawczego można przedstawić kilka przykładów w p
 5. **Pola magnetyczne i linie sił**
 - Linie sił pola magnetycznego wokół magnesów lub w ziemskim polu magnetycznym mogą tworzyć skomplikowane, fraktalne wzory, które przypominają krzywą smoka.
 
-![anomalie_w_polu_magnetycznym_ziemi](./images/anomalie_w_polu_magnetycznym_ziemi.jpg) ![pole_magnetyczne_magensu](./images/pole_magnetyczne_magnesu.jpg)
+![anomalie_w_polu_magnetycznym_ziemi](./images/anomalie_w_polu_magnetycznym_ziemi.jpg) ![pole_magnetyczne_magensu](./images/pole_magnetyczne_magensu.jpg)
 
 ## Rozwiązanie problemu
 
