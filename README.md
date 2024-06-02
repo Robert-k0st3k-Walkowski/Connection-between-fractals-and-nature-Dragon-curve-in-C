@@ -60,7 +60,7 @@ Program, który napisałem, generujący nam wspomnianą "krzywą smoka" polega n
 
 <ins>DLA WYBRANIA OPCJI GENEROWANIA GRAFICZNEGO EFEKTU DZIAŁANIA PROGRAMU:<ins>
 
-![screenshot_1](https://github.com/IS-UMK/2024-js-project-Robert-k0st3k-Walkowski/assets/147077004/1cb48792-aaba-44c1-9a83-aba243610526) ![screenshot_2](https://github.com/IS-UMK/2024-js-project-Robert-k0st3k-Walkowski/assets/147077004/befd03cc-eebd-4f5a-a86e-43eafb625488) ![screenshot_3](https://github.com/IS-UMK/2024-js-project-Robert-k0st3k-Walkowski/assets/147077004/5fe6a1ff-1e47-4c35-99d0-bf0b648253d3) ![screenshot_5](https://github.com/IS-UMK/2024-js-project-Robert-k0st3k-Walkowski/assets/147077004/d2ef27ba-a714-4c45-bd46-ec8975645516)
+![screenshot_2](https://github.com/IS-UMK/2024-js-project-Robert-k0st3k-Walkowski/assets/147077004/befd03cc-eebd-4f5a-a86e-43eafb625488) ![screenshot_3](https://github.com/IS-UMK/2024-js-project-Robert-k0st3k-Walkowski/assets/147077004/5fe6a1ff-1e47-4c35-99d0-bf0b648253d3) ![screenshot_5](https://github.com/IS-UMK/2024-js-project-Robert-k0st3k-Walkowski/assets/147077004/d2ef27ba-a714-4c45-bd46-ec8975645516)
 
 <ins>DLA NIE WYBRANIA OPCJI GENEROWANIA GRAFICZNEGO EFEKTU DZIAŁANIA PROGRAMU:<ins>
 
