@@ -13,7 +13,7 @@ To delikatnie skrócona wersja definicji fraktala, ale dzięki niej możemy już
 
 - **Krzywa smoka** <- jest to członek rodziny samopodobnych krzywych fraktalnych, które można „aprokysmować” (inaczej oszacować) za pomocą metody rekursyjnych takich jak system Lindenmayera. Krzywą smoka najczęściej uważano prawdopodobnie za krzstałt, który jest generowany poprzez powtarzalne składanie paska papieru na pół.
 
-![krzywa_smoka](https://github.com/IS-UMK/2024-js-project-Robert-k0st3k-Walkowski/assets/147077004/9822f16e-6a3e-44a5-bf18-dd32af5ec50b) ![Dragon_curve_slajd_2](https://github.com/IS-UMK/2024-js-project-Robert-k0st3k-Walkowski/assets/147077004/0112909b-d905-4e63-934b-dec92db29ff3)
+![krzywa_smoka](./images/krzywa_smoka.jpg) ![Dragon_curve_slajd_2](./images/Dragon_curve_slajd_2.png)
 
 *(Więcej o krzywej smoka i jej stwórcach można poczytać [tutaj](https://en.wikipedia.org/wiki/Dragon_curve) oraz [tutaj](https://pl.wikipedia.org/wiki/Smok_Heighwaya))*
 
@@ -28,27 +28,27 @@ Dla potwierdzenia problemu badawczego można przedstawić kilka przykładów w p
 1. **Liście i rośliny**
 - Struktura liści wielu roślin może przypominać wzory fraktalne, takie jak krzywa smoka. Kiedy liście rozwijają się w sposób spiralny lub mają złożone krawędzie, mogą one tworzyć wzory przypominające fraktale.
 
-![liście](https://github.com/IS-UMK/2024-js-project-Robert-k0st3k-Walkowski/assets/147077004/19be8d05-c8f1-455c-9f1a-3b5f40fd7a5c) ![rośliny](https://github.com/IS-UMK/2024-js-project-Robert-k0st3k-Walkowski/assets/147077004/0b55bd19-0c8b-41f2-9a91-7424685d6dee)
+![liście](./images/liście.jpeg) ![rośliny](./images/rośliny.jpeg)
 
 2. **Formacje skalne**
 - Pewne formacje skalne, szczególnie te, które powstają w wyniku erozji lub działania sił tektonicznych, mogą tworzyć złożone, samo-podobne wzory przypominające krzywą smoka. Przykładem mogą być niektóre skalne wybrzeża lub kaniony.
 
-![formy_skalne](https://github.com/IS-UMK/2024-js-project-Robert-k0st3k-Walkowski/assets/147077004/314128a5-0e9b-40ad-9898-da902b344c14) ![fomry_skalne_2](https://github.com/IS-UMK/2024-js-project-Robert-k0st3k-Walkowski/assets/147077004/3f60a92d-2198-49a7-8d00-2b03eb2cb652)
+![formy_skalne](./images/fomry_skalne.jpg) ![fomry_skalne_2](./images/fomry_skalne_2.jpeg)
 
 3. **Układy chmur**
 - Formacje chmur, zwłaszcza te, które powstają w wyniku turbulencji, mogą tworzyć fraktalne wzory. Często widać to w chmurach burzowych lub w układach chmur cirrus, gdzie kształty przypominają złożone krzywe fraktalne.
 
-![chmury_cirrusy](https://github.com/IS-UMK/2024-js-project-Robert-k0st3k-Walkowski/assets/147077004/2b60a365-21f8-4dd0-b6a7-0c61413534d4) ![chmury_burzowe](https://github.com/IS-UMK/2024-js-project-Robert-k0st3k-Walkowski/assets/147077004/9b0710a2-cbb3-42e8-af8d-5cc34807bc89)
+![chmury_cirrusy](./images/chmury_cirrusy.jpeg) ![chmury_burzowe](./images/chmury_burzowe.jpeg)
 
 4. **Układy korzeni**
 - Systemy korzeniowe wielu roślin, szczególnie tych, które rozrastają się w nieregularny sposób w poszukiwaniu wody i składników odżywczych, mogą tworzyć fraktalne wzory. Te wzory mogą przypominać złożone kształty podobne do krzywej smoka.
 
-![korzenie_drzew_1](https://github.com/IS-UMK/2024-js-project-Robert-k0st3k-Walkowski/assets/147077004/24a317ce-0c6f-4955-a38a-32901213a8f1) ![korzenie_drzew_3](https://github.com/IS-UMK/2024-js-project-Robert-k0st3k-Walkowski/assets/147077004/dc1d802e-05f1-4ebb-8aef-0c7a1ba77736)
+![korzenie_drzew_1](./images/korzenie_drzew_1.jpg) ![korzenie_drzew_3](./images/korzenie_drzew_3.jpg)
 
 5. **Pola magnetyczne i linie sił**
 - Linie sił pola magnetycznego wokół magnesów lub w ziemskim polu magnetycznym mogą tworzyć skomplikowane, fraktalne wzory, które przypominają krzywą smoka.
 
-![anomalie_w_polu_magnetycznym_ziemi](https://github.com/IS-UMK/2024-js-project-Robert-k0st3k-Walkowski/assets/147077004/ec5363e7-4f7f-46f4-b9e9-a4a6429c2a40) ![pole_magnetyczne_magensu](https://github.com/IS-UMK/2024-js-project-Robert-k0st3k-Walkowski/assets/147077004/8ca821c9-35f9-4671-8568-617a54855ae8)
+![anomalie_w_polu_magnetycznym_ziemi](./images/anomalie_w_polu_magnetycznym_ziemi.jpg) ![pole_magnetyczne_magensu](./images/pole_magnetyczne_magnesu.jpg)
 
 ## Rozwiązanie problemu
 
@@ -60,11 +60,11 @@ Program, który napisałem, generujący nam wspomnianą "krzywą smoka" polega n
 
 <ins>DLA WYBRANIA OPCJI GENEROWANIA GRAFICZNEGO EFEKTU DZIAŁANIA PROGRAMU:<ins>
 
-![screenshot_2](./screenshot_2.png) ![screenshot_3](./screenshot_3.png) ![screenshot_5](./screenshot_5.png)
+![screenshot_2](./screenshots/screenshot_2.png) ![screenshot_3](./screenshots/screenshot_3.png) ![screenshot_5](./screenshots/screenshot_5.png)
 
 <ins>DLA NIE WYBRANIA OPCJI GENEROWANIA GRAFICZNEGO EFEKTU DZIAŁANIA PROGRAMU:<ins>
 
-![screenshot_6](./screenshot_6.png) ![screenshot_4](./screenshot_4.png)
+![screenshot_6](./screenshots/screenshot_6.png) ![screenshot_4](./screenshots/screenshot_4.png)
 
 ## Dodatkowe biblioteki
 
