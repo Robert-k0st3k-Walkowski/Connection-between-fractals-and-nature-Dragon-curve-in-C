@@ -13,7 +13,7 @@ To delikatnie skrócona wersja definicji fraktala, ale dzięki niej możemy już
 
 - **Krzywa smoka** <- jest to członek rodziny samopodobnych krzywych fraktalnych, które można „aprokysmować” (inaczej oszacować) za pomocą metody rekursyjnych takich jak system Lindenmayera. Krzywą smoka najczęściej uważano prawdopodobnie za krzstałt, który jest generowany poprzez powtarzalne składanie paska papieru na pół.
 
-**TU MA BYĆ OBRAZEK KRZYWEJ SMOKA!!!!!!!!**
+![krzywa_smoka](https://github.com/IS-UMK/2024-js-project-Robert-k0st3k-Walkowski/assets/147077004/9822f16e-6a3e-44a5-bf18-dd32af5ec50b) ![Dragon_curve_slajd_2](https://github.com/IS-UMK/2024-js-project-Robert-k0st3k-Walkowski/assets/147077004/0112909b-d905-4e63-934b-dec92db29ff3)
 
 *(Więcej o krzywej smoka i jej stwórcach można poczytać [tutaj](https://en.wikipedia.org/wiki/Dragon_curve) oraz [tutaj](https://pl.wikipedia.org/wiki/Smok_Heighwaya))*
 
@@ -28,27 +28,27 @@ Dla potwierdzenia problemu badawczego można przedstawić kilka przykładów w p
 1. **Liście i rośliny**
 - Struktura liści wielu roślin może przypominać wzory fraktalne, takie jak krzywa smoka. Kiedy liście rozwijają się w sposób spiralny lub mają złożone krawędzie, mogą one tworzyć wzory przypominające fraktale.
 
-**TUTAJ WSTAWIĆ ZDJĘCIE LIŚCI I ROŚLIN**
+![liście](https://github.com/IS-UMK/2024-js-project-Robert-k0st3k-Walkowski/assets/147077004/19be8d05-c8f1-455c-9f1a-3b5f40fd7a5c) ![rośliny](https://github.com/IS-UMK/2024-js-project-Robert-k0st3k-Walkowski/assets/147077004/0b55bd19-0c8b-41f2-9a91-7424685d6dee)
 
 2. **Formacje skalne**
 - Pewne formacje skalne, szczególnie te, które powstają w wyniku erozji lub działania sił tektonicznych, mogą tworzyć złożone, samo-podobne wzory przypominające krzywą smoka. Przykładem mogą być niektóre skalne wybrzeża lub kaniony.
 
-**TUTAJ ZDJĘCIE JAKIŚ FORM SKALNYCH**
+![formy_skalne](https://github.com/IS-UMK/2024-js-project-Robert-k0st3k-Walkowski/assets/147077004/314128a5-0e9b-40ad-9898-da902b344c14) ![fomry_skalne_2](https://github.com/IS-UMK/2024-js-project-Robert-k0st3k-Walkowski/assets/147077004/3f60a92d-2198-49a7-8d00-2b03eb2cb652)
 
 3. **Układy chmur**
 - Formacje chmur, zwłaszcza te, które powstają w wyniku turbulencji, mogą tworzyć fraktalne wzory. Często widać to w chmurach burzowych lub w układach chmur cirrus, gdzie kształty przypominają złożone krzywe fraktalne.
 
-**TUTAJ ZDJĘCIE JAKIŚ CHMUR**
+![chmury_cirrusy](https://github.com/IS-UMK/2024-js-project-Robert-k0st3k-Walkowski/assets/147077004/2b60a365-21f8-4dd0-b6a7-0c61413534d4) ![chmury_burzowe](https://github.com/IS-UMK/2024-js-project-Robert-k0st3k-Walkowski/assets/147077004/9b0710a2-cbb3-42e8-af8d-5cc34807bc89)
 
 4. **Układy korzeni**
 - Systemy korzeniowe wielu roślin, szczególnie tych, które rozrastają się w nieregularny sposób w poszukiwaniu wody i składników odżywczych, mogą tworzyć fraktalne wzory. Te wzory mogą przypominać złożone kształty podobne do krzywej smoka.
 
-**TUTAJ ZDJĘCIE JAKIŚ KORZENI DRZEW**
+![korzenie_drzew_1](https://github.com/IS-UMK/2024-js-project-Robert-k0st3k-Walkowski/assets/147077004/24a317ce-0c6f-4955-a38a-32901213a8f1) ![korzenie_drzew_3](https://github.com/IS-UMK/2024-js-project-Robert-k0st3k-Walkowski/assets/147077004/dc1d802e-05f1-4ebb-8aef-0c7a1ba77736)
 
 5. **Pola magnetyczne i linie sił**
 - Linie sił pola magnetycznego wokół magnesów lub w ziemskim polu magnetycznym mogą tworzyć skomplikowane, fraktalne wzory, które przypominają krzywą smoka.
 
-**TUTAJ ZDJĘCIE JAKIŚ PÓŁ MAGNETYCZNYCH I ICH SIŁ**
+![anomalie_w_polu_magnetycznym_ziemi](https://github.com/IS-UMK/2024-js-project-Robert-k0st3k-Walkowski/assets/147077004/ec5363e7-4f7f-46f4-b9e9-a4a6429c2a40) ![pole_magnetyczne_magensu](https://github.com/IS-UMK/2024-js-project-Robert-k0st3k-Walkowski/assets/147077004/8ca821c9-35f9-4671-8568-617a54855ae8)
 
 ## Rozwiązanie problemu
 
@@ -56,7 +56,15 @@ Program, który napisałem, generujący nam wspomnianą "krzywą smoka" polega n
 
 ## Przykład użycia programu ukazany przez zrzuty ekranu
 
-**TUTAJ PODODAWAĆ ZRZUTY EKRANU Z DZIAŁANIA PROGRAMU**
+**(Wszystko było robione na ustawieniach pliku "config.txt": iter - 10, width - 1200, height - 1200, step - 10)**
+
+<ins>DLA WYBRANIA OPCJI GENEROWANIA GRAFICZNEGO EFEKTU DZIAŁANIA PROGRAMU:<ins>
+
+![screenshot_1](https://github.com/IS-UMK/2024-js-project-Robert-k0st3k-Walkowski/assets/147077004/1cb48792-aaba-44c1-9a83-aba243610526) ![screenshot_2](https://github.com/IS-UMK/2024-js-project-Robert-k0st3k-Walkowski/assets/147077004/befd03cc-eebd-4f5a-a86e-43eafb625488) ![screenshot_3](https://github.com/IS-UMK/2024-js-project-Robert-k0st3k-Walkowski/assets/147077004/5fe6a1ff-1e47-4c35-99d0-bf0b648253d3) ![screenshot_5](https://github.com/IS-UMK/2024-js-project-Robert-k0st3k-Walkowski/assets/147077004/d2ef27ba-a714-4c45-bd46-ec8975645516)
+
+<ins>DLA NIE WYBRANIA OPCJI GENEROWANIA GRAFICZNEGO EFEKTU DZIAŁANIA PROGRAMU:<ins>
+
+![screenshot_6](https://github.com/IS-UMK/2024-js-project-Robert-k0st3k-Walkowski/assets/147077004/362aaf78-434c-43a1-a5a3-0e1867bdfcbb) ![screenshot_4](https://github.com/IS-UMK/2024-js-project-Robert-k0st3k-Walkowski/assets/147077004/aee58181-6180-46fc-a1e4-02e625760de8)
 
 ## Dodatkowe biblioteki
 
@@ -75,3 +83,10 @@ Program, który napisałem, generujący nam wspomnianą "krzywą smoka" polega n
 1. Dalej będąc w konsoli *(oraz nie zmieniając lokalizacji/folderu!)* użyć komendy: ***.\nazwa_outputu.exe*** (albo ***.\a.exe***, jeżeli nie użyliśmy opcji ***-o nazwa_output***!).
 
 1. PODZIWIAĆ DZIAŁANIE PROGRAMU!!!😎
+
+## Źródła wszystkich obrazów czy opisów:
+- Google Grafika
+
+- Wikipedia (https://en.wikipedia.org/wiki/Dragon_curve, https://pl.wikipedia.org/wiki/Smok_Heighwaya, https://pl.wikipedia.org/wiki/Fraktal)
+
+- https://www.mscroggs.co.uk/blog/26 <- Dlaczego "krzywa smoka" nazywamy "krzywą smoka"
