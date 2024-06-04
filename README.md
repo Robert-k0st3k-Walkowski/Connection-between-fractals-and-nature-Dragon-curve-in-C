@@ -90,3 +90,5 @@ Program, który napisałem, generujący nam wspomnianą "krzywą smoka" polega n
 - Wikipedia (https://en.wikipedia.org/wiki/Dragon_curve, https://pl.wikipedia.org/wiki/Smok_Heighwaya, https://pl.wikipedia.org/wiki/Fraktal)
 
 - https://www.mscroggs.co.uk/blog/26 <- Dlaczego "krzywa smoka" nazywamy "krzywą smoka"
+
+- https://ultimatepopculture.fandom.com/wiki/Jurassic_Park_(novel) <- Wyjaśnienie użycia "krzywej smoka" w noweli Michaela Crichtona
